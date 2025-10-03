@@ -29,8 +29,6 @@ verify_installation.py
 .env
 .env.local
 
-# Vector store (should be regenerated as needed)
-data/processed/chroma_db/
 
 # IDEs
 .vscode/
